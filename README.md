@@ -100,18 +100,3 @@ Earnings Reports:
 ✔ **Sentiment-Based Investment** – Uses social sentiment to guide investment strategies.  
 ✔ **Financial Research** – Summarizes earnings reports for data-driven analysis.  
 
----
-## **Contributing**
-🔹 Fork the repository.  
-🔹 Create a new branch (`git checkout -b feature/YourFeature`).  
-🔹 Commit changes (`git commit -m 'Add feature'`).  
-🔹 Push (`git push origin feature/YourFeature`).  
-🔹 Open a pull request.  
-
----
-## **Next Steps**
-🚀 **Deploy as a web app** using FastAPI.  
-📈 **Enhance AI agents** with machine learning models.  
-💼 **Showcase on LinkedIn** to demonstrate your AI project.  
-
-Let me know if you need help with GitHub deployment or writing a LinkedIn post! 🚀
